@@ -27,6 +27,12 @@ Desenvolvido como Projeto Integrador do curso de **Técnico de Informática no S
 
 > **Nota:** A programação do projeto continua praticamente a mesma de quando foi desenvolvido originalmente. Com o tempo, fui aprendendo mais e percebi que algumas coisas podiam ser feitas de um jeito melhor — credenciais espalhadas por todo o código, senha salva sem hash, header copiado em cada arquivo. Então resolvi organizar tudo sem mudar a funcionalidade.
 
+## Antes e Depois
+
+| Antes | Depois |
+|-------|--------|
+| ![Código antes](./assets/img/antes.png) | ![Código depois](./assets/img/depois.png) |
+
 ---
 
 ## Funcionalidades

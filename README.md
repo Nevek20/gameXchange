@@ -31,7 +31,7 @@ Desenvolvido como Projeto Integrador do curso de **Técnico de Informática no S
 
 | Antes | Depois |
 |-------|--------|
-| ![Código antes](./assets/img/antes.png) | ![Código depois](./assets/img/depois.png) |
+| ![Código antes](./assets/img/antes.webp) | ![Código depois](./assets/img/depois.webp) |
 
 ---
 
